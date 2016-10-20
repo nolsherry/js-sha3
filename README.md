@@ -1,7 +1,8 @@
 # js-sha3
 
 [![Build Status](https://travis-ci.org/emn178/js-sha3.svg?branch=master)](https://travis-ci.org/emn178/js-sha3)
-[![Coverage Status](https://coveralls.io/repos/emn178/js-sha3/badge.svg?branch=master)](https://coveralls.io/r/emn178/js-sha3?branch=master)  
+[![Coverage Status](https://coveralls.io/repos/emn178/js-sha3/badge.svg?branch=master)](https://coveralls.io/r/emn178/js-sha3?branch=master)
+[![CDNJS](https://img.shields.io/cdnjs/v/js-sha3.svg)](https://cdnjs.com/libraries/js-sha3/)
 [![NPM](https://nodei.co/npm/js-sha3.png?stars&downloads)](https://nodei.co/npm/js-sha3/)
 
 A simple SHA-3 / Keccak / Shake hash function for JavaScript supports UTF-8 encoding.
